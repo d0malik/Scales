@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Scales</string>
+
+    <string-array name="scales_array">
+        <item>Custom Shape</item>
+        <item>Shape 1 - Minor</item>
+        <item>Shape 2 - Minor</item>
+        <item>Shape 3 - Minor</item>
+        <item>Shape 4 - Minor</item>
+        <item>Shape 5 - Minor</item>
+        <item>Shape 1 - Major</item>
+        <item>Shape 2 - Major</item>
+        <item>Shape 3 - Major</item>
+        <item>Shape 4 - Major</item>
+        <item>Shape 5 - Major</item>
+    </string-array>
+</resources>
